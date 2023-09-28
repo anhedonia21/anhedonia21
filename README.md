@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Unity**
 
-- 💬 Ask me about **React, Unity, C#, C++**
+- 💬 Ask me about **React, Unity, C#, C++, Javascript, Python**
 
 - ⚡ Fun fact, **nothing is eternal :)**
 
