@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhedonia21&show_icons=true&locale=en&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321" alt="anhedonia21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anhedonia21&show_icons=true&locale=en" alt="anhedonia21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anhedonia21&show_icons=true&locale=en&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321" alt="anhedonia21" /></p>
