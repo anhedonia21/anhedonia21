@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate Game Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Unity**
