@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **React, Unity, C#, C++, Javascript, Python**
 
-- ⚡ Fun fact, **nothing is eternal :)**
+- ⚡ Fun fact, **reality is the greatest hoax ever played, and your mind is both the jailer and the prisoner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
